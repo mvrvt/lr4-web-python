@@ -1,5 +1,7 @@
 .venv/
 __pycache__/
-*.pyc
 .DS_Store
 .vscode/
+*.py[cod]
+.env
+migration_backup/
